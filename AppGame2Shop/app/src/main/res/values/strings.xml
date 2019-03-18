@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AppGame2Shop</string>
+    <string name="a">A</string>
+    <string name="b">B</string>
+    <string name="connect">Connexion</string>
+    <string name="texte_choix01">Inscription</string>
+    <string name="texte_choix02">Manette</string>
+    <string name="texte_choix03">Quitter</string>
+    <string name="inscriptionMessage">Vous inscrire va vous permettre de vous identifier auprès du commerçant pour retirer un éventuel prix</string>
+    <string name="saisiePrenom">Votre prénom :</string>
+    <string name="saisieNom">Votre nom :</string>
+    <string name="saisieMail">Votre adresse mail :</string>
+    <string name="inscription">Inscription</string>
+    <string name="none_paired">Aucun appareil appairé</string>
+    <string name="none_found">Aucun appareil trouvé</string>
+    <string name="messagedefin">Merci d\'avoir joué</string>
+</resources>
